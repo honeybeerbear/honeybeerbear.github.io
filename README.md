@@ -1,0 +1,1 @@
+init hexo blog. tranquilpeak
